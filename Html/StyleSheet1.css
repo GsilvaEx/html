@@ -1,0 +1,48 @@
+﻿body {
+
+}
+
+/* --- Geral ---*/
+.container {
+    margin-top: 20px;
+}
+
+/*Serie individual Explorar/DetalhesSerie*/
+.DetalhesSerie {
+    background: linear-gradient(20deg, #242E30 30%, #2a3031 25% );
+    padding-right: 0;
+    padding-left: 0;
+    height: 31.250em;
+}
+
+.containerDetalhesSerie {
+    margin-top: 0;
+    height: 31.250em;
+}
+
+.containerImagemdetalhes {
+    height: 31.250em;
+    padding-top: 25px;
+}
+
+.containerInfoDetalhes {
+    height: 31.250em;
+    padding-top: 25px;
+}
+
+.img-seriedetalhes {
+    display: block;
+    width: 300px;
+    height: 450px;
+    box-shadow: 0 0 4px rgba(0,0,0,0.2);
+    border-radius: 4px;
+}
+
+.row.btnDetalhes {
+    margin-bottom: 50px;
+}
+/*----fim----*/
+
+hr {
+    color:white;
+}
