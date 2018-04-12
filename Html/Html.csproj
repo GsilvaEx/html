@@ -75,6 +75,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="homeIndex.html" />
+    <Content Include="responsivocard.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="teste.html" />
     <Content Include="Web.config" />
